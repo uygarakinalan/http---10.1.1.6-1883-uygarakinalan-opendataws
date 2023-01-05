@@ -1,0 +1,17 @@
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/opendataws.data.deps.json
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/opendataws.data.dll
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/ref/opendataws.data.dll
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/opendataws.data.pdb
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/opendataws.entity.dll
+/Users/ugi/vscode/opendataws/opendataws.data/bin/Release/net6.0/opendataws.entity.pdb
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.csproj.AssemblyReference.cache
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.AssemblyInfoInputs.cache
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.AssemblyInfo.cs
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.csproj.CoreCompileInputs.cache
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.csproj.CopyComplete
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.dll
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/ref/opendataws.data.dll
+/Users/ugi/vscode/opendataws/opendataws.data/obj/Release/net6.0/opendataws.data.pdb
+/Users/ugi/vscode/opendataws/opendataws.data/bin/release/net6.0/opendataws.data.runtimeconfig.json
+/Users/ugi/vscode/opendataws/opendataws.data/obj/release/net6.0/opendataws.data.genruntimeconfig.cache

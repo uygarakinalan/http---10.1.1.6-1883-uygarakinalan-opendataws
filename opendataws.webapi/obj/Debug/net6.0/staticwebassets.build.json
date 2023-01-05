@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wGPdRHTqklUtpbUjaJcwt6kPgJ5NX1sVg+8mPmdGats=",
+  "Source": "opendataws.webapi",
+  "BasePath": "_content/opendataws.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

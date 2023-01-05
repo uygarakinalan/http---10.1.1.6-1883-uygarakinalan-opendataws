@@ -1,0 +1,17 @@
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.business.deps.json
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.business.dll
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/ref/opendataws.business.dll
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.business.pdb
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.data.dll
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.entity.dll
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.data.pdb
+/Users/ugi/vscode/opendataws/opendataws.business/bin/Release/net6.0/opendataws.entity.pdb
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.csproj.AssemblyReference.cache
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.AssemblyInfoInputs.cache
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.AssemblyInfo.cs
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.csproj.CoreCompileInputs.cache
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.csproj.CopyComplete
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.dll
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/ref/opendataws.business.dll
+/Users/ugi/vscode/opendataws/opendataws.business/obj/Release/net6.0/opendataws.business.pdb

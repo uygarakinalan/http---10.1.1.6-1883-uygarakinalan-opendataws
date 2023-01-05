@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "seIEF6qZ7EF0gnO5ai0KfKsxo2W9U9G7p2V6AvniGLE=",
+  "Source": "opendataws.webapi",
+  "BasePath": "_content/opendataws.webapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ugi/vscode/opendataws/opendataws.business/opendataws.business.csproj": {}
+  },
+  "projects": {
+    "/Users/ugi/vscode/opendataws/opendataws.business/opendataws.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ugi/vscode/opendataws/opendataws.business/opendataws.business.csproj",
+        "projectName": "opendataws.business",
+        "projectPath": "/Users/ugi/vscode/opendataws/opendataws.business/opendataws.business.csproj",
+        "packagesPath": "/Users/ugi/.nuget/packages/",
+        "outputPath": "/Users/ugi/vscode/opendataws/opendataws.business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ugi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ugi/vscode/opendataws/opendataws.data/opendataws.data.csproj": {
+                "projectPath": "/Users/ugi/vscode/opendataws/opendataws.data/opendataws.data.csproj"
+              },
+              "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj": {
+                "projectPath": "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ugi/vscode/opendataws/opendataws.data/opendataws.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ugi/vscode/opendataws/opendataws.data/opendataws.data.csproj",
+        "projectName": "opendataws.data",
+        "projectPath": "/Users/ugi/vscode/opendataws/opendataws.data/opendataws.data.csproj",
+        "packagesPath": "/Users/ugi/.nuget/packages/",
+        "outputPath": "/Users/ugi/vscode/opendataws/opendataws.data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ugi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj": {
+                "projectPath": "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj",
+        "projectName": "opendataws.entity",
+        "projectPath": "/Users/ugi/vscode/opendataws/opendataws.entity/opendataws.entity.csproj",
+        "packagesPath": "/Users/ugi/.nuget/packages/",
+        "outputPath": "/Users/ugi/vscode/opendataws/opendataws.entity/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ugi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
